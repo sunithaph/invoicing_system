@@ -1,0 +1,26 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.navbar {
+    background-color: #343a40 !important;
+}
+
+.table {
+    background-color: white;
+    border: 1px solid #ddd;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.alert-warning {
+    font-size: 1.2em;
+    text-align: center;
+}
